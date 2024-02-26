@@ -3,5 +3,11 @@ body{
 }
 nav{
     background-color: cadetblue;
-    padding: 15px;
+    padding: 15px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav .logo a{
+    text-decoration: none;
 }
